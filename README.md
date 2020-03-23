@@ -9,9 +9,9 @@ However the biggest inspiration was my daily life challanges.
 
 ### Prerequisites
 
-Python 3 /I've used python3.7 version/
-IDE: PyCharm or Jupyter Notebook
-Trying to keep PEP8 guidelines: http://pep8online.com/
+* Python 3 /I've used python3.7 version/
+* IDE: PyCharm or Jupyter Notebook
+* Trying to keep PEP8 guidelines: http://pep8online.com/
 
 ### License
 
